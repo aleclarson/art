@@ -1,6 +1,6 @@
 {
   "name": "art",
-  "description":  "Cross-browser Vector Graphics",
+  "description": "Cross-browser Vector Graphics",
   "version": "0.10.3",
   "keywords": [
     "art",
@@ -17,8 +17,13 @@
     "type": "git",
     "url": "https://github.com/sebmarkbage/art.git"
   },
-  "dependencies": {},
-  "devDependencies": {},
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "devDependencies": {
+    "prettier": "^1.18.2",
+    "typescript": "^3.6.2"
+  },
   "engines": {
     "node": "*"
   }

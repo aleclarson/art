@@ -5,3 +5,6 @@ art.tmproj
 art.esproj
 demos/experiments
 demos/interesting
+node_modules/
+core/*.js
+core/*.d.ts
