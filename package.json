@@ -18,7 +18,9 @@
     "modes",
     "morph",
     "parsers",
-    "shapes"
+    "shapes",
+    "!*.ts",
+    "*.d.ts"
   ],
   "scripts": {
     "build": "tsc -p ."
