@@ -1,7 +1,7 @@
 {
   "name": "@alloc/art",
   "description": "Cross-browser Vector Graphics",
-  "version": "0.10.3",
+  "version": "0.11.0-alpha.99eb507",
   "keywords": [
     "art",
     "canvas",
