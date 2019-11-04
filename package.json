@@ -12,6 +12,14 @@
   "license": "MIT",
   "main": "index.js",
   "repository": "alloc/art",
+  "files": [
+    "core",
+    "dom",
+    "modes",
+    "morph",
+    "parsers",
+    "shapes"
+  ],
   "scripts": {
     "build": "tsc -p ."
   },
